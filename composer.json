@@ -1,17 +1,17 @@
 {
-    "name": "xelon-ag/vmware-php-client",
+    "name": "qrawless/vmware-php-client",
     "description": "PHP API Client for VmWare",
     "keywords": [
-        "xelon-ag",
+        "qrawless",
         "laravel",
         "vmware-php-client"
     ],
-    "homepage": "https://github.com/xelon-ag/vmware-php-client",
+    "homepage": "https://github.com/qrawless/vmware-php-client",
     "license": "MIT",
     "authors": [
         {
-            "name": "Andrii Hazhur",
-            "email": "a.hazhur@bitcat.agency",
+            "name": "Serhan Adalıoğlu",
+            "email": "qrawlessserhann@gmail.com",
             "role": "Developer"
         }
     ],
@@ -65,6 +65,6 @@
             }
         }
     },
-    "minimum-stability": "dev",
+    "minimum-stability": "stable",
     "prefer-stable": true
 }
